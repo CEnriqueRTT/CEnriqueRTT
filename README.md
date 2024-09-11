@@ -1,4 +1,8 @@
-## Hi there 👋
+<!--## Hi there 👋-->
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=CEnriqueRTT&label=Profile%20views&color=0b67e2&style=flat" alt="CEnriqueRTT"/></p>
+<h1 align="center">Hello 🌎, I'm Enrique Torres</h1>
+<h4 align="center">Systems and Computer Engineering Graduate</h4>
 
 <!--
 **CEnriqueRTT/CEnriqueRTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
